@@ -62,3 +62,9 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 - [r/LocalLLaMA How to install LLaMA: 8-bit and 4-bit](https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/)
 
 Tags: F
+
+## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
+
+ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+
+Tags: F
