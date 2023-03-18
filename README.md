@@ -53,3 +53,11 @@ Tags: F
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
 Tags: F
+
+## [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+
+This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model. Related links:
+- [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca)
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
+
+Tags: F
