@@ -36,7 +36,10 @@ Tags: B
 
 ## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
-OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. [Demo](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
+OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. 
+
+Related links:
+- [spaces/togethercomputer/OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
 Tags: F
 
@@ -52,9 +55,13 @@ This is a browser-based front-end for AI-assisted writing with multiple local & 
 
 Tags: F
 
-## [LAION-AI/Open-Assistant/](https://github.com/LAION-AI/Open-Assistant/) 
+## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 
 
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+
+Related links:
+- [huggingface.co/OpenAssistant](https://huggingface.co/OpenAssistant)
+- [r/OpenAssistant/](https://www.reddit.com/r/OpenAssistant/)
 
 Tags: F
 
