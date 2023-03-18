@@ -15,6 +15,8 @@ Tags:
 
 # The template
 
+Append the new project at the end of file
+
 ```markdown
 ## [{owner}/{project-name}]{https://github.com/link/to/project}
 
