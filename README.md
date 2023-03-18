@@ -11,6 +11,7 @@ Tags:
 
 -   B: bare (no data, no model's weight, no chat system)
 -   F: full (yes data, yes model's weight, yes chat system including TUI and GUI)
+-   C: complicated (semi open source, not really open souce, based on closed model, ...)
 
 # The template
 
@@ -61,7 +62,8 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
 - [r/LocalLLaMA How to install LLaMA: 8-bit and 4-bit](https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/)
 
-Tags: F
+See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
+Tags: C
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
