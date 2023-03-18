@@ -10,7 +10,8 @@ Projects are **not** counted if they are:
 Tags:
 
 -   B: bare (no data, no model's weight, no chat system)
--   F: full (yes data, yes model's weight, yes chat system including TUI and GUI)
+-   M: mildly bare (yes data, yes model's weight, bare chat via API)
+-   F: full (yes data, yes model's weight, fancy chat system including TUI and GUI)
 -   C: complicated (semi open source, not really open souce, based on closed model, ...)
 
 # The template
@@ -30,12 +31,6 @@ Tags: B
 ## [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
-
-Tags: B
-
-## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
-
-ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
 
 Tags: B
 
@@ -79,3 +74,19 @@ Tags: C
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
 Tags: F
+
+## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
+
+ChatGLM-6B is an open bilingual language model based on General Language Model (GLM) framework, with 6.2 billion parameters. With the quantization technique, users can deploy locally on consumer-grade graphics cards (only 6GB of GPU memory is required at the INT4 quantization level).
+
+Tags: M
+
+## [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf)
+
+This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](https://arxiv.org/abs/2211.01786).
+
+Related links:
+- [bigscience/bloomz](https://huggingface.co/bigscience/bloomz)
+- [bigscience/mt0-base](https://huggingface.co/bigscience/mt0-base)
+
+Tags: M
