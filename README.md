@@ -59,5 +59,6 @@ Tags: F
 This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model. Related links:
 - [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca)
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
+- [r/LocalLLaMA How to install LLaMA: 8-bit and 4-bit](https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/)
 
 Tags: F
