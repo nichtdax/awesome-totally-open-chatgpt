@@ -94,7 +94,6 @@ Related links:
 - Deploying ChatGLM on Modelz: [tensorchord/modelz-ChatGLM](https://github.com/tensorchord/modelz-ChatGLM)
 - Docker image with built-on playground UI and streaming API compatible with OpenAI, using [Basaran](https://github.com/hyperonym/basaran): [peakji92/chatglm:6b](https://hub.docker.com/r/peakji92/chatglm/tags)
 
-- 
 Tags: F
 
 ## [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf)
