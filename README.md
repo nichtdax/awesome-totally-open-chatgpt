@@ -105,3 +105,15 @@ Related links:
 - [bigscience/mt0-base](https://huggingface.co/bigscience/mt0-base)
 
 Tags: M
+
+## [{antimatter15}/{alpaca.cpp}]{https://github.com/antimatter15/alpaca.cpp}
+
+Locally run an Instruction-Tuned Chat-Style LLM
+
+Tags: ALPACA
+
+## [{ggerganov}/{llama.cpp}]{https://github.com/ggerganov/llama.cpp}
+
+Port of Facebook's LLaMA model in C/C++
+
+Tags: LLaMA
