@@ -71,6 +71,8 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 - [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca)
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
 - [r/LocalLLaMA How to install LLaMA: 8-bit and 4-bit](https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/)
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 
 See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
 
