@@ -108,3 +108,9 @@ Related links:
 - [bigscience/mt0-base](https://huggingface.co/bigscience/mt0-base)
 
 Tags: M
+
+## [carperai/trlx](https://github.com/carperai/trlx)
+
+ A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT. 
+
+ Tags: B
