@@ -36,7 +36,7 @@ Append the new project at the end of file
 
 Description goes here
 
-Tags: Bare/Medium/Full/Complicated
+Rating: Bare/Medium/Full/Complicated
 License: Non-Commercial/Commercial
 ```
 
@@ -46,7 +46,7 @@ License: Non-Commercial/Commercial
 
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 
-Tags: Bare
+Rating: Bare
 
 ## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
@@ -55,19 +55,19 @@ OpenChatKit provides a powerful, open-source base to create both specialized and
 Related links:
 - [spaces/togethercomputer/OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
-Tags: F
+Rating: Full
 
 ## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
-Tags: F
+Rating: Full
 
 ## [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client)
 
 This is a browser-based front-end for AI-assisted writing with multiple local & remote AI models. It offers the standard array of tools, including Memory, Author’s Note, World Info, Save & Load, adjustable AI settings, formatting options, and the ability to import existing AI Dungeon adventures. You can also turn on Adventure mode and play the game like AI Dungeon Unleashed.
 
-Tags: F
+Rating: Full
 
 ## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 
 
@@ -77,7 +77,7 @@ Related links:
 - [huggingface.co/OpenAssistant](https://huggingface.co/OpenAssistant)
 - [r/OpenAssistant/](https://www.reddit.com/r/OpenAssistant/)
 
-Tags: F
+Rating: Full
 
 ## [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
@@ -91,13 +91,13 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 
 See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
 
-Tags: C
+Rating: Complicated
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
-Tags: F
+Rating: Full
 
 ## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
 
@@ -111,7 +111,7 @@ Related links:
 - Deploying ChatGLM on Modelz: [tensorchord/modelz-ChatGLM](https://github.com/tensorchord/modelz-ChatGLM)
 - Docker image with built-on playground UI and streaming API compatible with OpenAI, using [Basaran](https://github.com/hyperonym/basaran): [peakji92/chatglm:6b](https://hub.docker.com/r/peakji92/chatglm/tags)
 
-Tags: F
+Rating: Full
 
 ## [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf)
 
@@ -121,10 +121,10 @@ Related links:
 - [bigscience/bloomz](https://huggingface.co/bigscience/bloomz)
 - [bigscience/mt0-base](https://huggingface.co/bigscience/mt0-base)
 
-Tags: M
+Rating: Medium
 
 ## [carperai/trlx](https://github.com/carperai/trlx)
 
  A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT. 
 
- Tags: B
+ Rating: Bare
