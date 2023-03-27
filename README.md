@@ -28,12 +28,6 @@ Tags: B
 
 # The list
 
-## [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama)
-
-ChatLLaMA is an implementation for LLaMA-based ChatGPT runnable in a single GPU and 15x faster training process than ChatGPT.
-
-Tags: B
-
 ## [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
 
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
