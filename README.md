@@ -29,6 +29,8 @@ Tags:
    - [THUDM/ChatGLM-6B](#THUDMChatGLM-6B)
    - [bigscience-workshop/xmtf](#bigscience-workshopxmtf)
    - [carperai/trlx](#carperaitrlx)
+   - [databrickslabs/dolly](#databrickslabsdolly)
+   - [LianjiaTech/BELLE](#lianjiatechbelle)
 
 # The template
 
