@@ -31,6 +31,7 @@ Tags:
    - [carperai/trlx](#carperaitrlx)
    - [databrickslabs/dolly](#databrickslabsdolly)
    - [LianjiaTech/BELLE](#lianjiatechbelle)
+   - [ethanyanjiali/minChatGPT](#ethanyanjialiminchatgpt)
 
 # The template
 
