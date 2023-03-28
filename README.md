@@ -36,8 +36,7 @@ Append the new project at the end of file
 
 Description goes here
 
-Rating: Bare/Medium/Full/Complicated
-License: Non-Commercial/Commercial
+Tags: Bare/Standard/Full/Complicated
 ```
 
 # The list
@@ -91,7 +90,7 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 
 See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
 
-Tags: Standard, Complicated
+Tags: Complicated
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
