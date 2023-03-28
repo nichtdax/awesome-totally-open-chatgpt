@@ -11,7 +11,7 @@ Projects are **not** counted if they are:
 - Using language models which are not finetuned for human instruction or chat.
 
 Tags:
--   Bare: only, source, codeno data, no model's weight, no chat system
+-   Bare: only source code, no data, no model's weight, no chat system
 -   Standard: yes data, yes model's weight, bare chat via API
 -   Full: full yes data, yes model's weight, fancy chat system including TUI and GUI
 -   Complicated: semi open source, not really open source, based on closed model, etc...
