@@ -151,3 +151,12 @@ Related links:
 - [English readme](https://github.com/LianjiaTech/BELLE#-belle-be-large-language-model-engine-1)
 
 Tags: Standard
+
+## [ethanyanjiali/minChatGPT](https://github.com/ethanyanjiali/minChatGPT)
+
+A minimum example of aligning language models with RLHF similar to ChatGPT
+
+Related links:
+- [huggingface.co/ethanyanjiali/minChatGPT](https://huggingface.co/ethanyanjiali/minChatGPT)
+
+Tags: Standard
