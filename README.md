@@ -77,6 +77,7 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [setzer22/llama-rs](https://github.com/setzer22/llama-rs)
+- [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama)
 
 See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
 
