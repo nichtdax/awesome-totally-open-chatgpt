@@ -130,4 +130,14 @@ Tags: Standard
 
  A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT. 
 
- Tags: Bare
+Tags: Bare
+
+## [databrickslabs/dolly](https://github.com/databrickslabs/dolly)
+
+Script to fine tune [GPT-J 6B](https://huggingface.co/EleutherAI/gpt-j-6B) model on the [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) dataset. Insightful if you want to fine tune LLMs.
+
+Related links:
+- [About model's weight](https://github.com/databrickslabs/dolly/issues/3#issuecomment-1483701513)
+
+Tags: Bare
+
