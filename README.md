@@ -3,19 +3,32 @@
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
 </div>
 
-ChatGPT is GPT-3.5 with RLHF (Reinforcement Learning with Human Feedback) for chat system.
+ChatGPT is GPT-3.5 finetuned with RLHF (Reinforcement Learning with Human Feedback) for human instruction and chat.
 
-By alternative, I mean projects feature different language model for chat system. 
+Alternatives are projects featuring different instruct finetuned language models for chat. 
 Projects are **not** counted if they are:
-- alternative frontend projects because they just call the API from OpenAI. 
-- alternative transformer decoder models to GPT 3.5 either because the training data of them are (mostly) not for chat system.
+- Alternative frontend projects which simply call OpenAI's APIs. 
+- Using language models which are not finetuned for human instruction or chat.
 
 Tags:
+-   Bare: only, source, codeno data, no model's weight, no chat system
+-   Standard: yes data, yes model's weight, bare chat via API
+-   Full: full yes data, yes model's weight, fancy chat system including TUI and GUI
+-   Complicated: semi open source, not really open source, based on closed model, etc...
 
--   B: bare (no data, no model's weight, no chat system)
--   M: mildly bare (yes data, yes model's weight, bare chat via API)
--   F: full (yes data, yes model's weight, fancy chat system including TUI and GUI)
--   C: complicated (semi open source, not really open souce, based on closed model, ...)
+# Table of Contents
+1. [The template](#The-template)
+2. [The list](#The-list)
+   - [lucidrains/PaLM-rlhf-pytorch](#lucidrainsPaLM-rlhf-pytorch)
+   - [togethercomputer/OpenChatKit](#togethercomputerOpenChatKit)
+   - [oobabooga/text-generation-webui](#oobaboogatext-generation-webui)
+   - [KoboldAI/KoboldAI-Client](#KoboldAIKoboldAI-Client)
+   - [LAION-AI/Open-Assistant](#LAION-AIOpen-Assistant)
+   - [tatsu-lab/stanford_alpaca](#tatsu-labstanford_alpaca)
+   - [BlinkDL/ChatRWKV](#BlinkDLChatRWKV)
+   - [THUDM/ChatGLM-6B](#THUDMChatGLM-6B)
+   - [bigscience-workshop/xmtf](#bigscience-workshopxmtf)
+   - [carperai/trlx](#carperaitrlx)
 
 # The template
 
@@ -24,9 +37,9 @@ Append the new project at the end of file
 ```markdown
 ## [{owner}/{project-name}]{https://github.com/link/to/project}
 
-Lorem ipsum dolor sit amet.
+Description goes here
 
-Tags: B
+Tags: Bare/Standard/Full/Complicated
 ```
 
 # The list
@@ -35,7 +48,7 @@ Tags: B
 
 Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 
-Tags: B
+Tags: Bare
 
 ## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
@@ -44,19 +57,19 @@ OpenChatKit provides a powerful, open-source base to create both specialized and
 Related links:
 - [spaces/togethercomputer/OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
 
-Tags: F
+Tags: Full
 
 ## [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.
 
-Tags: F
+Tags: Full
 
 ## [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client)
 
 This is a browser-based front-end for AI-assisted writing with multiple local & remote AI models. It offers the standard array of tools, including Memory, Author’s Note, World Info, Save & Load, adjustable AI settings, formatting options, and the ability to import existing AI Dungeon adventures. You can also turn on Adventure mode and play the game like AI Dungeon Unleashed.
 
-Tags: F
+Tags: Full
 
 ## [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 
 
@@ -66,7 +79,7 @@ Related links:
 - [huggingface.co/OpenAssistant](https://huggingface.co/OpenAssistant)
 - [r/OpenAssistant/](https://www.reddit.com/r/OpenAssistant/)
 
-Tags: F
+Tags: Full
 
 ## [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
@@ -77,16 +90,17 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [setzer22/llama-rs](https://github.com/setzer22/llama-rs)
+- [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama)
 
 See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
 
-Tags: C
+Tags: Complicated
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
 ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 
-Tags: F
+Tags: Full
 
 ## [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
 
@@ -100,7 +114,7 @@ Related links:
 - Deploying ChatGLM on Modelz: [tensorchord/modelz-ChatGLM](https://github.com/tensorchord/modelz-ChatGLM)
 - Docker image with built-on playground UI and streaming API compatible with OpenAI, using [Basaran](https://github.com/hyperonym/basaran): [peakji92/chatglm:6b](https://hub.docker.com/r/peakji92/chatglm/tags)
 
-Tags: F
+Tags: Full
 
 ## [bigscience-workshop/xmtf](https://github.com/bigscience-workshop/xmtf)
 
@@ -110,16 +124,20 @@ Related links:
 - [bigscience/bloomz](https://huggingface.co/bigscience/bloomz)
 - [bigscience/mt0-base](https://huggingface.co/bigscience/mt0-base)
 
-Tags: M
+Tags: Standard
 
 ## [carperai/trlx](https://github.com/carperai/trlx)
 
  A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF), supporting online RL up to 20b params and offline RL to larger models. Basically what you would use to finetune GPT into ChatGPT. 
 
- Tags: B
- 
+Tags: Bare
+
 ## [databrickslabs/dolly](https://github.com/databrickslabs/dolly)
 
 Script to fine tune [GPT-J 6B](https://huggingface.co/EleutherAI/gpt-j-6B) model on the [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) dataset. Insightful if you want to fine tune LLMs.
 
-Tags: B
+Related links:
+- [About model's weight](https://github.com/databrickslabs/dolly/issues/3#issuecomment-1483701513)
+
+Tags: Bare
+
