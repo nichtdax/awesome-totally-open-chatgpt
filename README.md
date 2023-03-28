@@ -32,6 +32,7 @@ Tags:
    - [databrickslabs/dolly](#databrickslabsdolly)
    - [LianjiaTech/BELLE](#lianjiatechbelle)
    - [ethanyanjiali/minChatGPT](#ethanyanjialiminchatgpt)
+   - [cerebras/Cerebras-GPT](#cerebrascerebras-gpt)
 
 # The template
 
@@ -159,5 +160,15 @@ A minimum example of aligning language models with RLHF similar to ChatGPT
 
 Related links:
 - [huggingface.co/ethanyanjiali/minChatGPT](https://huggingface.co/ethanyanjiali/minChatGPT)
+
+Tags: Standard
+
+## [cerebras/Cerebras-GPT](https://huggingface.co/cerebras/Cerebras-GPT-6.7B)
+
+7 open source GPT-3 style models with parameter ranges from 111 million to 13 billion, trained using the [Chinchilla](https://arxiv.org/abs/2203.15556) formula. Model weights have been released under a permissive license (Apache 2.0 license in particular).
+
+Related links:
+- [Announcement](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+- [Models with other amount of parameters](https://huggingface.co/cerebras)
 
 Tags: Standard
