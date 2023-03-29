@@ -96,6 +96,7 @@ This is the repo for the Stanford Alpaca project, which aims to build and share 
 - [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama)
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
 See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
 
