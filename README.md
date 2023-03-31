@@ -141,9 +141,9 @@ Tags: Bare
 Script to fine tune [GPT-J 6B](https://huggingface.co/EleutherAI/gpt-j-6B) model on the [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) dataset. Insightful if you want to fine tune LLMs.
 
 Related links:
-- [About model's weight](https://github.com/databrickslabs/dolly/issues/3#issuecomment-1483701513)
+- [6b model card](https://huggingface.co/databricks/dolly-v1-6b)
 
-Tags: Bare
+Tags: Standard
 
 ## [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE)
 
