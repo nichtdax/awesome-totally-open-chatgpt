@@ -36,6 +36,7 @@ Other revelant lists:
    - [LianjiaTech/BELLE](#lianjiatechbelle)
    - [ethanyanjiali/minChatGPT](#ethanyanjialiminchatgpt)
    - [cerebras/Cerebras-GPT](#cerebrascerebras-gpt)
+   - [TavernAI/TavernAI](#tavernaitavernai)
 
 # The template
 
@@ -175,3 +176,9 @@ Related links:
 - [Models with other amount of parameters](https://huggingface.co/cerebras)
 
 Tags: Standard
+
+## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI)
+
+Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
+
+Tags: Full
