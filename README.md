@@ -16,6 +16,9 @@ Tags:
 -   Full: full yes data, yes model's weight, fancy chat system including TUI and GUI
 -   Complicated: semi open source, not really open source, based on closed model, etc...
 
+Other revelant lists:
+- [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset): A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
+
 # Table of Contents
 1. [The template](#The-template)
 2. [The list](#The-list)
