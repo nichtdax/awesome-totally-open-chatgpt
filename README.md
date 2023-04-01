@@ -25,6 +25,7 @@ Tags:
    - [KoboldAI/KoboldAI-Client](#KoboldAIKoboldAI-Client)
    - [LAION-AI/Open-Assistant](#LAION-AIOpen-Assistant)
    - [tatsu-lab/stanford_alpaca](#tatsu-labstanford_alpaca)
+     - [Other LLaMA-derived projects](#other-llama-derived-projects)
    - [BlinkDL/ChatRWKV](#BlinkDLChatRWKV)
    - [THUDM/ChatGLM-6B](#THUDMChatGLM-6B)
    - [bigscience-workshop/xmtf](#bigscience-workshopxmtf)
@@ -86,21 +87,20 @@ Tags: Full
 
 ## [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
-This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model. Related links:
-- [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca)
-- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)
-- [r/LocalLLaMA How to install LLaMA: 8-bit and 4-bit](https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/)
-- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [setzer22/llama-rs](https://github.com/setzer22/llama-rs)
-- [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama)
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama)
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)
-
-See these Reddit comments first [#1](https://www.reddit.com/r/MachineLearning/comments/11uk8ti/comment/jcpd3yu/?utm_source=share&utm_medium=web2x&context=3)
+This is the repo for the Stanford Alpaca project, which aims to build and share an instruction-following LLaMA model.
 
 Tags: Complicated
+
+### Other LLaMA-derived projects:
+
+- [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) Released weights recreated from Stanford Alpaca, an experiment in fine-tuning LLaMA on a synthetic instruction dataset.
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) Code for rproducing the Stanford Alpaca results using low-rank adaptation (LoRA).
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) Ports for inferencing LLaMA in C/C++ running on CPUs, supports alpaca, gpt4all, etc.
+- [setzer22/llama-rs](https://github.com/setzer22/llama-rs) Rust port of the llama.cpp project.
+- [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama) Open source implementation for LLaMA-based ChatGPT runnable in a single GPU.
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) Implementation of the LLaMA language model based on nanoGPT.
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMA.
+- [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
