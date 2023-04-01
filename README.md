@@ -37,6 +37,7 @@ Other revelant lists:
    - [ethanyanjiali/minChatGPT](#ethanyanjialiminchatgpt)
    - [cerebras/Cerebras-GPT](#cerebrascerebras-gpt)
    - [TavernAI/TavernAI](#tavernaitavernai)
+   - [zilliztech/gptcache](#zilliztechgptcache)
 
 # The template
 
@@ -182,3 +183,9 @@ Tags: Standard
 Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
 
 Tags: Full
+
+## [zilliztech/gptcache](https://github.com/zilliztech/gptcache)
+
+gptcache, a powerful caching library that can be used to speed up and lower the cost of chat applications that rely on the LLM service. GPT Cache works as a memcache for AIGC applications, similar to how Redis works for traditional applications.
+
+Tags: Bare
