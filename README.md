@@ -38,6 +38,7 @@ Other revelant lists:
    - [ethanyanjiali/minChatGPT](#ethanyanjialiminchatgpt)
    - [cerebras/Cerebras-GPT](#cerebrascerebras-gpt)
    - [TavernAI/TavernAI](#tavernaitavernai)
+   - [Cohee1207/SillyTavern](#cohee1207sillytavern)
 
 # The template
 
@@ -186,5 +187,11 @@ Tags: Standard
 ## [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI)
 
 Atmospheric adventure chat for AI language model **Pygmalion** by default and other models such as **KoboldAI**, ChatGPT, GPT-4
+
+Tags: Full
+
+## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern)
+
+SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
 
 Tags: Full
