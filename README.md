@@ -41,6 +41,7 @@ Other revelant lists:
    - [Cohee1207/SillyTavern](#cohee1207sillytavern)
    - [h2oai/h2ogpt](#h2oaih2ogpt)
    - [mlc-ai/web-llm](#mlc-aiweb-llm)
+   - [Stability-AI/StableLM](#stability-aistablelm)
 
 # The template
 
@@ -220,5 +221,14 @@ Bringing large-language models and chat to web browsers. Everything runs inside 
 
 Related links:
 - https://mlc.ai/web-llm
+
+Tags: Full
+
+## [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM)
+
+This repository contains Stability AI's ongoing development of the StableLM series of language models and will be continuously updated with new checkpoints.
+
+Related links:
+- [huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
 
 Tags: Full
