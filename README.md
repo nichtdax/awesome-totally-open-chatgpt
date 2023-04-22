@@ -42,6 +42,7 @@ Other revelant lists:
    - [h2oai/h2ogpt](#h2oaih2ogpt)
    - [mlc-ai/web-llm](#mlc-aiweb-llm)
    - [Stability-AI/StableLM](#stability-aistablelm)
+   - [clue-ai/ChatYuan](#clue-aichatyuan)
 
 # The template
 
@@ -230,5 +231,14 @@ This repository contains Stability AI's ongoing development of the StableLM seri
 
 Related links:
 - [huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
+
+Tags: Full
+
+## [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan)
+
+ChatYuan: Large Language Model for Dialogue in Chinese and English (The repos are mostly in Chinese)
+
+Related links:
+- [A bit translated readme to English](https://github.com/nichtdax/awesome-totally-open-chatgpt/issues/18#issuecomment-1492826662)
 
 Tags: Full
