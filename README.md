@@ -40,6 +40,7 @@ Other revelant lists:
    - [TavernAI/TavernAI](#tavernaitavernai)
    - [Cohee1207/SillyTavern](#cohee1207sillytavern)
    - [h2oai/h2ogpt](#h2oaih2ogpt)
+   - [mlc-ai/web-llm](#mlc-aiweb-llm)
 
 # The template
 
@@ -207,8 +208,17 @@ h2oGPT - The world's best open source GPT
 - Code to evaluate and compare the performance of fine-tuned LLMs
 
 Related links:
-- - [![🌊](img-small.png) h2oGPT 20B](https://gpt.h2o.ai/)
+- [h2oGPT 20B](https://gpt.h2o.ai/)
 - [🤗 h2oGPT 12B #1](https://huggingface.co/spaces/h2oai/h2ogpt-chatbot)
 - [🤗 h2oGPT 12B #2](https://huggingface.co/spaces/h2oai/h2ogpt-chatbot2)
+
+Tags: Full
+
+## [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)
+
+Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+
+Related links:
+- https://mlc.ai/web-llm
 
 Tags: Full
