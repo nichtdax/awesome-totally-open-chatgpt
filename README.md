@@ -39,6 +39,7 @@ Other revelant lists:
    - [cerebras/Cerebras-GPT](#cerebrascerebras-gpt)
    - [TavernAI/TavernAI](#tavernaitavernai)
    - [Cohee1207/SillyTavern](#cohee1207sillytavern)
+   - [h2oai/h2ogpt](#h2oaih2ogpt)
 
 # The template
 
@@ -193,5 +194,21 @@ Tags: Full
 ## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern)
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
+
+Tags: Full
+
+## [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
+
+h2oGPT - The world's best open source GPT
+- Open-source repository with fully permissive, commercially usable code, data and models
+- Code for preparing large open-source datasets as instruction datasets for fine-tuning of large language models (LLMs), including prompt engineering
+- Code for fine-tuning large language models (currently up to 20B parameters) on commodity hardware and enterprise GPU servers (single or multi node)
+- Code to run a chatbot on a GPU server, with shareable end-point with Python client API
+- Code to evaluate and compare the performance of fine-tuned LLMs
+
+Related links:
+- - [![🌊](img-small.png) h2oGPT 20B](https://gpt.h2o.ai/)
+- [🤗 h2oGPT 12B #1](https://huggingface.co/spaces/h2oai/h2ogpt-chatbot)
+- [🤗 h2oGPT 12B #2](https://huggingface.co/spaces/h2oai/h2ogpt-chatbot2)
 
 Tags: Full
