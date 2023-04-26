@@ -113,6 +113,7 @@ Tags: Complicated
 - [hpcaitech/ColossalAI#ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) An open-source solution for cloning ChatGPT with a complete RLHF pipeline.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) An open platform for training, serving, and evaluating large language model based chatbots.
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) MOSS is an open-sourced plugin-augmented conversational language model.
 
 ## [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 
@@ -242,3 +243,11 @@ Related links:
 - [A bit translated readme to English](https://github.com/nichtdax/awesome-totally-open-chatgpt/issues/18#issuecomment-1492826662)
 
 Tags: Full
+
+
+## [OpenLMLab/MOSS]([https://github.com/clue-ai/ChatYuan](https://github.com/OpenLMLab/MOSS))
+
+MOSS: An open-source tool-augmented conversational language model from Fudan University (The repos are mostly in Chinese)
+
+Tags: Full
+
