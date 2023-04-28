@@ -43,6 +43,7 @@ Other revelant lists:
    - [mlc-ai/web-llm](#mlc-aiweb-llm)
    - [Stability-AI/StableLM](#stability-aistablelm)
    - [clue-ai/ChatYuan](#clue-aichatyuan)
+   - [OpenLMLab/MOSS](#openlmlabmoss)
 
 # The template
 
@@ -245,9 +246,12 @@ Related links:
 Tags: Full
 
 
-## [OpenLMLab/MOSS]([https://github.com/clue-ai/ChatYuan](https://github.com/OpenLMLab/MOSS))
+## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)
 
-MOSS: An open-source tool-augmented conversational language model from Fudan University (The repos are mostly in Chinese)
+MOSS: An open-source tool-augmented conversational language model from Fudan University. (Most examples are in Chinese)
+
+Related links:
+- [English readme](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md)
 
 Tags: Full
 
