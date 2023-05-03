@@ -232,6 +232,7 @@ This repository contains Stability AI's ongoing development of the StableLM seri
 
 Related links:
 - [huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
+- [StableVicuna](https://github.com/Stability-AI/StableLM#stablevicuna) an RLHF fine-tune of Vicuna-13B v0, which itself is a fine-tune of LLaMA-13B. 
 
 Tags: Full
 
