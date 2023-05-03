@@ -43,6 +43,7 @@ Other revelant lists:
    - [mlc-ai/web-llm](#mlc-aiweb-llm)
    - [Stability-AI/StableLM](#stability-aistablelm)
    - [clue-ai/ChatYuan](#clue-aichatyuan)
+   - [OpenLMLab/MOSS](#openlmlabmoss)
 
 # The template
 
@@ -242,3 +243,14 @@ Related links:
 - [A bit translated readme to English](https://github.com/nichtdax/awesome-totally-open-chatgpt/issues/18#issuecomment-1492826662)
 
 Tags: Full
+
+
+## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)
+
+MOSS: An open-source tool-augmented conversational language model from Fudan University. (Most examples are in Chinese)
+
+Related links:
+- [English readme](https://github.com/OpenLMLab/MOSS/blob/main/README_en.md)
+
+Tags: Full
+
