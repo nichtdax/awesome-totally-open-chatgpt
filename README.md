@@ -44,6 +44,7 @@ Other revelant lists:
    - [Stability-AI/StableLM](#stability-aistablelm)
    - [clue-ai/ChatYuan](#clue-aichatyuan)
    - [OpenLMLab/MOSS](#openlmlabmoss)
+   - [openclaw/openclaw](#openclawopenclaw)
 
 # The template
 
@@ -245,6 +246,15 @@ Related links:
 
 Tags: Full
 
+
+## [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
+Self-hosted AI assistant that bridges Claude to eight messaging channels (WhatsApp, Telegram, Discord, Slack, iMessage, SMS, Email, Signal) from a single deployment. Supports hooks, plugins, and custom tools.
+
+Related links:
+- [Setup Guide](https://clawdbot.blog/getting-started/installation/)
+
+Tags: Full
 
 ## [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS)
 
