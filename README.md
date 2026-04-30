@@ -127,6 +127,8 @@ ChatGLM-6B is an open bilingual language model based on General Language Model (
 
 Related links:
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 - Alternative Web UI: [Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 - Slim version (remove 20K image tokens to reduce memory usage): [silver/chatglm-6b-slim](https://huggingface.co/silver/chatglm-6b-slim)
 - Fintune ChatGLM-6b using low-rank adaptation (LoRA): [lich99/ChatGLM-finetune-LoRA](https://github.com/lich99/ChatGLM-finetune-LoRA)
