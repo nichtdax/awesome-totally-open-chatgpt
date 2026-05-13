@@ -255,3 +255,9 @@ Related links:
 
 Tags: Full
 
+## [dakera-ai/dakera-mcp](https://github.com/dakera-ai/dakera-mcp)
+
+Self-hosted open-source memory server for AI agents and ChatGPT-style assistants. Provides persistent, decay-weighted memory via the Model Context Protocol (MCP) with HNSW vector search and RocksDB storage. Supports multi-agent namespacing, session-based recall, and production-ready deployment.
+
+Tags: Standard
+
