@@ -255,3 +255,8 @@ Related links:
 
 Tags: Full
 
+## [off-grid-ai/off-grid-ai-desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)
+
+Off Grid AI Desktop - a private, local-first AI desktop app for macOS. Runs LLM chat, image generation, whisper transcription, and RAG search over your own data fully on-device via llama.cpp; nothing leaves the machine. AGPL-3.0. Website: https://getoffgridai.co/desktop
+
+Tags: Full
